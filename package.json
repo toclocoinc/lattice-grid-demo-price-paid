@@ -1,0 +1,19 @@
+{
+  "name": "lattice-grid-demo-price-paid",
+  "version": "1.0.0",
+  "description": "A dashboard of house sales in Cambridge, Oxford and York over the last two years, from HM Land Registry Price Paid Data.",
+  "type": "module",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "start": "node tools/serve.mjs",
+    "snapshot": "node tools/build-snapshot.mjs",
+    "verify": "node tools/verify.mjs"
+  },
+  "dependencies": {
+    "@toclocoinc/lattice-grid": "^1.62.0"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}

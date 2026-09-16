@@ -1,0 +1,63 @@
+{
+  "fetchedAt": "2026-09-16T10:44:30.715Z",
+  "fetchedAtMs": 1789555470715,
+  "seconds": 23.6,
+  "requests": 4,
+  "source": "HM Land Registry Price Paid Data",
+  "sourceUrl": "https://landregistry.data.gov.uk/",
+  "attribution": "Contains HM Land Registry data © Crown copyright and database right 2026. This data is licensed under the Open Government Licence v3.0.",
+  "licence": "Open Government Licence v3.0",
+  "licenceUrl": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+  "districts": [
+    {
+      "slug": "cambridge",
+      "district": "CAMBRIDGE",
+      "name": "Cambridge"
+    },
+    {
+      "slug": "oxford",
+      "district": "OXFORD",
+      "name": "Oxford"
+    },
+    {
+      "slug": "york",
+      "district": "YORK",
+      "name": "York"
+    }
+  ],
+  "months": [
+    "2024-08",
+    "2024-09",
+    "2024-10",
+    "2024-11",
+    "2024-12",
+    "2025-01",
+    "2025-02",
+    "2025-03",
+    "2025-04",
+    "2025-05",
+    "2025-06",
+    "2025-07",
+    "2025-08",
+    "2025-09",
+    "2025-10",
+    "2025-11",
+    "2025-12",
+    "2026-01",
+    "2026-02",
+    "2026-03",
+    "2026-04",
+    "2026-05",
+    "2026-06",
+    "2026-07"
+  ],
+  "newest": "2026-07",
+  "newestDate": "2026-07-28",
+  "from": "2024-08-01",
+  "rows": 11615,
+  "counts": {
+    "cambridge": 2730,
+    "oxford": 2933,
+    "york": 5952
+  }
+}
