@@ -1,7 +1,7 @@
 {
-  "fetchedAt": "2026-09-28T11:11:32.916Z",
-  "fetchedAtMs": 1790593892916,
-  "seconds": 6.5,
+  "fetchedAt": "2026-10-29T11:03:29.470Z",
+  "fetchedAtMs": 1793271809470,
+  "seconds": 6.4,
   "requests": 4,
   "source": "HM Land Registry Price Paid Data",
   "sourceUrl": "https://landregistry.data.gov.uk/",
@@ -26,7 +26,6 @@
     }
   ],
   "months": [
-    "2024-09",
     "2024-10",
     "2024-11",
     "2024-12",
@@ -49,15 +48,16 @@
     "2026-05",
     "2026-06",
     "2026-07",
-    "2026-08"
+    "2026-08",
+    "2026-09"
   ],
-  "newest": "2026-08",
-  "newestDate": "2026-08-28",
-  "from": "2024-09-01",
-  "rows": 11608,
+  "newest": "2026-09",
+  "newestDate": "2026-09-25",
+  "from": "2024-10-01",
+  "rows": 11719,
   "counts": {
-    "cambridge": 2727,
-    "oxford": 2929,
-    "york": 5952
+    "cambridge": 2725,
+    "oxford": 2938,
+    "york": 6056
   }
 }
